@@ -1,4 +1,4 @@
-# Gerenciador de Livros - Site 📚
+# Gerenciador de Livros 📚
 
 Este repositório contém o código-fonte para um **Gerenciador de Livros** online. O objetivo é oferecer uma plataforma simples e intuitiva para registrar, visualizar, editar e organizar livros. 
 Ideal para quem deseja criar e gerenciar sua própria biblioteca pessoal. 📖
